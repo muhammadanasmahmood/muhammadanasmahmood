@@ -39,7 +39,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=4&no-confetti=true" alt="GitHub Trophies" />
 </div>
 
-
 ## ✍️ 𝔻𝔼𝕍 ℚ𝕌𝕆𝕋𝔼:
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
