@@ -7,7 +7,7 @@ An aspiring AI engineer with a passion for pushing the boundaries of innovation 
 
 ### 🔍 Key Expertise:
 - **Programming Languages:** Python
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Pytorch, Tensorflow, Scikit-Learn
 - **Machine Learning:** Classification, Regression, Models
 - **Natural Language Processing (NLP):** NLTK, Spacy
 - **Database Management:** SQL, Microsoft Power BI, DBMS, Data Warehousing, Data Collection, Data Extraction, Data Cleaning, ETL (Extract, Transform, Load)
