@@ -3,7 +3,7 @@
 
 
 # 💫 𝔸𝔹𝕆𝕌𝕋 𝕄𝔼:
-Greetings! I'm Muhammad Anas Mahmood, an aspiring AI engineer with a passion for pushing the boundaries of innovation and high-quality manufacturing. Specializing in Python Programming, Machine Learning (ML), Data Science, and NLP, I bring a dynamic skill set to the tech landscape.
+An aspiring AI engineer with a passion for pushing the boundaries of innovation and high-quality manufacturing. Specializing in Python Programming, Machine Learning (ML), Data Science, and NLP, I bring a dynamic skill set to the tech landscape.
 
 ### 🔍 Key Expertise:
 - **Programming Languages:** Python
@@ -28,7 +28,7 @@ Having collaborated on international projects, I participated in the NASA Space 
 - Certified AI Engineer | PIAIC
 
 ### 📈 Passion Unleashed:
-Leveraging a robust skill set in Python Programming language, SQL, Machine learning, and Data analysis, I focus on data insights and exploratory data analysis. Let's connect and explore the boundless possibilities at the intersection of technology and innovation.
+Leveraging a robust skill set in Python Programming language, SQL, Machine learning, and Data analysis, I focus on data insights and exploratory data analysis. Follow me to explore the boundless possibilities at the intersection of technology and innovation.
 
 ## 🌐 𝕊𝕆ℂ𝕀𝔸𝕃𝕊:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadanasmahmoodofficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anasmahmoodofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadanasmahmood) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamanasmahmood) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25FF33.svg?logo=WhatsApp&logoColor=white)](https://wa.me/+923120207985) [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me./+923062702848) [![Kaggle](https://img.shields.io/badge/Kaggle-%232696F3.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/muhammadanasmahmood)
