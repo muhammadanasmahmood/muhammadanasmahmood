@@ -13,7 +13,7 @@ I enjoy working on cutting-edge AI projects, optimizing models, and transforming
 ## Core Expertise
 
 - **Programming:** Writing clean, efficient, and production-ready code for data-intensive and AI-driven applications  
-- **Machine Learning Systems:** Building and refining models with a focus on data quality, feature engineering, and measurable performance improvement  
+- **Machine Learning:** Building and refining models with a focus on data quality, feature engineering, and measurable performance improvement  
 - **Deep Learning:** Practical experience with neural networks and transformer-based architectures for real-world problem solving  
 - **Natural Language Processing:** Developing end-to-end text pipelines including preprocessing, representation, and model integration  
 - **Data Handling:** Working with large, messy datasets — cleaning, transforming, and structuring data for reliable downstream use  
