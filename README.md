@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Anas Mahmood</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Anas Mahmood</h1>
 <h3 align="center">AI & Machine Learning Engineer | Data Scientist | Kaggle Master | Odoo Developer/Consultant</h3>
 
 ---
 
 ## About Me
-I build intelligent systems that solve real problems. Experienced in Machine Learning, Deep Learning, NLP, and Data Science, I focus on turning complex data into actionable insights and creating solutions that truly make an impact.
+
+- Build intelligent systems that tackle real-world problems with measurable impact  
+- Experienced in Machine Learning, Deep Learning, NLP, and Data Science  
+- Transform complex data into actionable insights and optimized solutions  
+- Focused on creating robust, scalable, and high-impact AI applications
 
 ---
 
