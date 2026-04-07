@@ -4,16 +4,14 @@
 ---
 
 ## About Me
-I am an AI Engineer passionate about building intelligent systems that solve real-world problems. With a strong foundation in Machine Learning/Deep Learning, NLP, and Data Science, I focus on delivering scalable and impactful solutions.
-
-I enjoy working on cutting-edge AI projects, optimizing models, and transforming raw data into actionable insights.
+I build intelligent systems that solve real problems. Experienced in Machine Learning, Deep Learning, NLP, and Data Science, I focus on turning complex data into actionable insights and creating solutions that truly make an impact.
 
 ---
 
 ## Core Expertise
 
 - **Programming:** Writing clean, efficient, and production-ready code for data-intensive and AI-driven applications  
-- **Machine Learning:** Building and refining models with a focus on data quality, feature engineering, and measurable performance improvement  
+- **Machine Learning:** Developing solutions with emphasis on data quality, feature engineering, and measurable performance gains
 - **Deep Learning:** Practical experience with neural networks and transformer-based architectures for real-world problem solving  
 - **Natural Language Processing:** Developing end-to-end text pipelines including preprocessing, representation, and model integration  
 - **Data Handling:** Working with large, messy datasets — cleaning, transforming, and structuring data for reliable downstream use  
@@ -46,7 +44,7 @@ I enjoy working on cutting-edge AI projects, optimizing models, and transforming
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadanasmahmood)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/muhammadanasmahmood)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/iamanasmahmood)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/anasmahmoodofficial)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/enigmatic.anas)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/muhammadanasmahmoodofficial)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+923120207985)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+923062702848)
