@@ -14,7 +14,7 @@ I build intelligent systems that solve real problems. Experienced in Machine Lea
 - **Machine Learning:** Developing solutions with emphasis on data quality, feature engineering, and measurable performance gains
 - **Deep Learning:** Practical experience with neural networks and transformer-based architectures for real-world problem solving  
 - **Natural Language Processing:** Developing end-to-end text pipelines including preprocessing, representation, and model integration  
-- **Data Handling:** Working with large, messy datasets — cleaning, transforming, and structuring data for reliable downstream use  
+- **Data Handling:** Working with large, messy datasets, cleaning, transforming, and structuring data for reliable downstream use  
 - **Data Pipelines:** Designing ETL workflows and automating data processing for scalable and repeatable systems  
 - **Databases:** Strong command of SQL and experience managing structured data in real-world applications  
 - **Visualization:** Communicating insights through clear, purposeful visualizations and dashboards  
@@ -49,4 +49,4 @@ I build intelligent systems that solve real problems. Experienced in Machine Lea
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+923120207985)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+923062702848)
 
----
+
