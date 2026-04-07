@@ -31,17 +31,14 @@ I enjoy working on cutting-edge AI projects, optimizing models, and transforming
 
 ## 🛠️ Tech Stack
 
-| **Languages & Frameworks** | **AI / ML Libraries** |
-|---------------------------|----------------------|
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) <br> ![XML](https://img.shields.io/badge/XML-ff6600?style=flat&logo=xml&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) <br> ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| **Languages & Frameworks** | **AI / ML Libraries** | **Data & Visualization** |
+|---------------------------|----------------------|--------------------------|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) <br> ![XML](https://img.shields.io/badge/XML-ff6600?style=flat&logo=xml&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) <br> ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) <br> ![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=flat&logo=powerbi&logoColor=black) |
 
-| **Data & Visualization** | **Databases & Tools** |
-|--------------------------|----------------------|
-| ![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) <br> ![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=flat&logo=powerbi&logoColor=black) | ![MySQL](https://img.shields.io/badge/mysql-00000f?style=flat&logo=mysql&logoColor=white) <br> ![ETL](https://img.shields.io/badge/ETL-Pipelines-blue) |
+| **Databases & Tools** | **ERP & Development** | **Cloud & MLOps** |
+|----------------------|----------------------|------------------|
+| ![MySQL](https://img.shields.io/badge/mysql-00000f?style=flat&logo=mysql&logoColor=white) <br> ![ETL](https://img.shields.io/badge/ETL-Pipelines-blue) | ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/github--actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 
-| **ERP & Development** | **Cloud & MLOps** |
-|----------------------|------------------|
-| ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/github--actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 
 ---
 
